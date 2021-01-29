@@ -1,0 +1,17 @@
+string task_id
+string task_name
+string schedule_time
+string schedule_type
+int64 priority
+string robot_name
+string patient_name
+int64 patient_id
+string barcode
+float64[] position
+float64[] position_1
+float64[] position_2
+string item_name
+string load_operation
+float64[] escape_priority
+float64[] nurse_station
+float64[] home_positiion
